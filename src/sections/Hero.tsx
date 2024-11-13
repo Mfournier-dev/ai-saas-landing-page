@@ -11,7 +11,6 @@ import SectionContent from "@/components/SectionContent";
 import {
   motion,
   useMotionValue,
-  useMotionValueEvent,
   useScroll,
   useSpring,
   useTransform,
